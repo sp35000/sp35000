@@ -18,7 +18,6 @@ I worked for 16 years at Serpro, the biggest Latin American public IT agency, at
 
 I am experienced in Development (web and mainframe), Data Warehouse, and DevOps.
 
-- 🔭 I retired from my last work in August/2021, being financially independent, and dedicated to side projects since them.
-- 🌱 I’m currently learning full cycle development.
-- 📫 How to reach me: 
-![image](https://user-images.githubusercontent.com/18312690/219508396-dd135776-2c81-4cea-9834-103d7535b728.png)
+LinkedIn: ![image](https://user-images.githubusercontent.com/18312690/219508396-dd135776-2c81-4cea-9834-103d7535b728.png)
+
+LinkedIn: (https://www.linkedin.com/in/celso-kikuchi/?originalSubdomain=br)
