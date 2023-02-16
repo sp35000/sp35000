@@ -4,7 +4,7 @@
 **sp35000/sp35000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Hello, my name is Celso Kikuchi.
+My name is Celso Kikuchi.
 
 I am a Brazilian IT Professional, and lives in Fortaleza-CE, Brazil.
 
