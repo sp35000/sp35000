@@ -18,4 +18,4 @@ I worked for 16 years at Serpro, the biggest Latin American public IT agency, at
 
 I am experienced in Development (web and mainframe), Data Warehouse, and DevOps.
 
-LinkedIn: ![image](https://user-images.githubusercontent.com/18312690/219508396-dd135776-2c81-4cea-9834-103d7535b728.png)(https://www.linkedin.com/in/celso-kikuchi/)
+LinkedIn: [![image](https://user-images.githubusercontent.com/18312690/219508396-dd135776-2c81-4cea-9834-103d7535b728.png)](https://www.linkedin.com/in/celso-kikuchi/)
